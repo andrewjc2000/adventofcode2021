@@ -11,5 +11,6 @@ Here are my current times/rankings for the challenges (On days 1, 3, and 8 I did
 | [6](https://adventofcode.com/2021/day/6) |   00:04:04    |     315       |        0       |   00:15:16    |     1233      |        0       |
 | [5](https://adventofcode.com/2021/day/5) |   00:33:30    |     4609      |        0       |   05:14:17    |     17100     |        0       |
 | [4](https://adventofcode.com/2021/day/4) |   00:13:16    |     416       |        0       |   00:22:41    |     839       |        0       |
-| [3](https://adventofcode.com/2021/day/3) |   06:51:34    |     49232     |        0       |   00:06:03    |     1533      |        0       |
+| [3](https://adventofcode.com/2021/day/3) |   06:51:34    |     49232     |        0       |   07:03:36    |     31408     |        0       |
+| [2](https://adventofcode.com/2021/day/2) |   00:04:03    |     2103      |        0       |   00:06:03    |     1533      |        0       |
 | [1](https://adventofcode.com/2021/day/1) |   18:31:05    |     96652     |        0       |   18:33:43    |     85525     |        0       |

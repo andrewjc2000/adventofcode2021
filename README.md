@@ -3,6 +3,7 @@
 These are my (somewhat cleaned up) solutions for the [2021 Advent of Code Competition](https://adventofcode.com/2021).
 
 Listed below are my times and rankings for the challenges.
+
 I did not start immediately working on the challenges on Days 1, 3, and 8.
 
 |                   Day                     | Time (Part 1) | Rank (Part 1) | Score (Part 1) | Time (Part 2) | Rank (Part 2) | Score (Part 2) |                                      My Solution                                      |

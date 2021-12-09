@@ -1,8 +1,9 @@
 # Andrew Chafos Advent of Code 2021 Solutions
 
-In this repo are my current solutions for the [2021 Advent of Code Competition](https://adventofcode.com/2021)
+These are my (somewhat cleaned up) solutions for the [2021 Advent of Code Competition](https://adventofcode.com/2021).
 
-Here are my current times/rankings for the challenges (On days 1, 3, and 8 I didn't start working on the problems until much after they were released; my Day 5 time is real, though)
+Listed below are my times and rankings for the challenges.
+I did not start immediately working on the challenges on Days 1, 3, and 8.
 
 |                   Day                     | Time (Part 1) | Rank (Part 1) | Score (Part 1) | Time (Part 2) | Rank (Part 2) | Score (Part 2) |                                      My Solution                                      |
 | ----------------------------------------- | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- | ------------------------------------------------------------------------------------- |

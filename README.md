@@ -6,6 +6,7 @@ Here are my current times/rankings for the challenges (On days 1, 3, and 8 I did
 
 |                   Day                     | Time (Part 1) | Rank (Part 1) | Score (Part 1) | Time (Part 2) | Rank (Part 2) | Score (Part 2) |                                      My Solution                                      |
 | ----------------------------------------- | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- | ------------------------------------------------------------------------------------- |
+| [9](https://adventofcode.com/2021/day/9)  |   00:21:14    |     4965      |        0       |   01:21:55    |     6523      |        0       | [Day 9 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day9.py)  |
 | [8](https://adventofcode.com/2021/day/8)  |   16:54:09    |     49405     |        0       |   19:56:41    |     38701     |        0       | [Day 8 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day8.py)  |
 | [7](https://adventofcode.com/2021/day/7)  |   00:04:03    |     897       |        0       |   00:04:49    |     287       |        0       | [Day 7 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day7.py)  |
 | [6](https://adventofcode.com/2021/day/6)  |   00:04:04    |     315       |        0       |   00:15:16    |     1233      |        0       | [Day 6 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day6.py)  |

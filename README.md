@@ -8,6 +8,7 @@ I did not start immediately working on the challenges on Days 1, 3, and 8.
 
 |                   Day                     | Time (Part 1) | Rank (Part 1) | Score (Part 1) | Time (Part 2) | Rank (Part 2) | Score (Part 2) |                                      My Solution                                      |
 | ----------------------------------------- | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- | ------------------------------------------------------------------------------------- |
+| [11](https://adventofcode.com/2021/day/11)|   00:27:07    |     2178      |        0       |   00:33:52    |     2500      |        0       | [Day 11 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day11.py)|
 | [10](https://adventofcode.com/2021/day/10)|   00:03:53    |     91        |        10      |   00:30:00    |     3615      |        0       | [Day 10 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day10.py)|
 | [9](https://adventofcode.com/2021/day/9)  |   00:21:14    |     4965      |        0       |   01:21:55    |     6523      |        0       | [Day 9 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day9.py)  |
 | [8](https://adventofcode.com/2021/day/8)  |   16:54:09    |     49405     |        0       |   19:56:41    |     38701     |        0       | [Day 8 Solution](https://github.com/andrewjc2000/adventofcode2021/blob/main/day8.py)  |
